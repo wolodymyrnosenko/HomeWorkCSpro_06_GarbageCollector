@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkCSpro_06_1_GC_PlayD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkCSpro_06_2_GC_StoreIDisposable", "HomeWorkCSpro_06_2_GC_StoreIDisposable\HomeWorkCSpro_06_2_GC_StoreIDisposable.csproj", "{9F3BD4DD-190B-4086-8D9B-3D028638F0E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkCSpro_06_3_GC_PlayStoreUpdateDisposePattern", "HomeWorkCSpro_06_3_GC_PlayStoreUpdateDisposePattern\HomeWorkCSpro_06_3_GC_PlayStoreUpdateDisposePattern.csproj", "{26BFB399-FF9D-4E99-AD9B-9EB23801F2BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9F3BD4DD-190B-4086-8D9B-3D028638F0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F3BD4DD-190B-4086-8D9B-3D028638F0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F3BD4DD-190B-4086-8D9B-3D028638F0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26BFB399-FF9D-4E99-AD9B-9EB23801F2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BFB399-FF9D-4E99-AD9B-9EB23801F2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BFB399-FF9D-4E99-AD9B-9EB23801F2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BFB399-FF9D-4E99-AD9B-9EB23801F2BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
